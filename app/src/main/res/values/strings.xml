@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OSMZHTTPServer</string>
+    <string name="startServer">Start HTTP Server</string>
+    <string name="stopServer">Stop HTTP Server</string>
+    <string name="serverRunning">HTTP Server Running</string>
+    <string name="openCamera">Open Camera</string>
+    <string name="capture">Capture</string>
+    <string name="startStream">Start Stream</string>
+    <string name="stopStream">Stop Stream</string>
+    <string name="back">Back</string>
+
+
+
+</resources>
